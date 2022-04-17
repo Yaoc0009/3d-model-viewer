@@ -1,0 +1,1 @@
+pointcloud = pcread("bunny.m");
